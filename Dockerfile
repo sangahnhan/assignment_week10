@@ -9,5 +9,3 @@ RUN touch /root/files/a.txt /root/files/b.txt /root/files/c.txt
 RUN git clone https://github.com/sangahnhan/OSSP_week4.git /root/assignment_week8
 
 WORKDIR /root
-
-WORKDIR /
